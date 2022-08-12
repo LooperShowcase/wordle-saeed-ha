@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+.letter{
+    width: 100px;
+    height: 100px;
+    background-color:black ;
+    border: 3px white solid;
+    margin: 5px;
+    font-size: 50px;
+    background-color: black;
+    color: chartreuse;
+    padding: 50px;
+    text-align: center;
+
+
+
+
+
+}
+.word{
+    display: flex;
+    justify-content: center;
+}
+h1{
+color:black;
+}
+
